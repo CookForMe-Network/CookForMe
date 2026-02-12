@@ -20,4 +20,4 @@ CookForMe brings the warmth of home cooking to your doorstep. Browse local cooks
 
 ---
 
-Coming soon at [cookforme.net](https://cookforme.net)
+Coming soon at [cookforme.network](https://cookforme.network)
